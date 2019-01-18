@@ -1,10 +1,12 @@
 {
     "code":"000000",
     "data":{
-        "emailStatus":1,
-        "googleStatus":0,
-        "mobileStatus":1
+        "list":[
+            "minkiiyxz",
+            "Feat-Wu",
+            "13125281966"
+        ]
     },
     "msg":"success",
-    "traceId":""
+    "traceId":"9fcac654fde0e734"
 }
