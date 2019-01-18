@@ -1,1 +1,10 @@
-# UP.TOP
+{
+    "code":"000000",
+    "data":{
+        "emailStatus":1,
+        "googleStatus":0,
+        "mobileStatus":1
+    },
+    "msg":"success",
+    "traceId":""
+}
